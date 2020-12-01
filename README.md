@@ -21,12 +21,12 @@
 
 
 
-### OUTPUT  ::::::::: !
+### OUTPUT  ::::::::: 
    
    
    
    
    
-   [Screenshot](day.png)
+   ![Screenshot](day.png)
  
            
